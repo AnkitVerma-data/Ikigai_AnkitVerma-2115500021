@@ -1,1 +1,1 @@
-# eikigai
+# Ikigai
